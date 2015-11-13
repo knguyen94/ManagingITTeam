@@ -13,3 +13,16 @@ Use Case 1
     ○	Proper project information has been provided
   ●	Main Success Scenario: Corporate manager receives inaccurate or invalid license and vulnerability information for the requested project packages
   ●	Trigger: Corporate manager uploads or identifies project information to which license and vulnerability information is provided
+  
+Use Case 2
+  ●	Title: 
+  ●	Primary Actor: 
+  ●	Goal in Context: 
+  ●	Stakeholders:
+    ○ Corporate Manager: To receive clear and relevant project information
+    ○	Corporate Developer: To provide the relevant file/package level information
+    ○ Project Owner: To clearly understand corporate manager decisions to green/red light a project
+  ●	Preconditions:
+    
+  ●	Main Success Scenario: 
+  ●	Trigger: 
