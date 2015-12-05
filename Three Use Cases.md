@@ -50,6 +50,7 @@ Use Case 3
   ●	Trigger: Approval to install system from corporate manager.
   
   //Optional cases
+  
   Use Case 2
   ●	Title: Scan code
   ●	Primary Actor: Corporate Developer
