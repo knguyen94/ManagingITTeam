@@ -17,6 +17,7 @@ Use Case 1
 
   
 //Edited by Justin, 12/4
+
 Use Case 2
   ●	Title: Create Repository
   ●	Primary Actor: Corporate Developer
@@ -47,3 +48,17 @@ Use Case 3
     ○	 Must have database software installed on system. 
   ●	Main Success Scenario: System now capable of creating/mangaging database adn can be checked for vulnerabilities
   ●	Trigger: Approval to install system from corporate manager.
+  
+  //Optional cases
+  Use Case 2
+  ●	Title: Scan code
+  ●	Primary Actor: Corporate Developer
+  ●	Goal in Context: Corporate Developer scans code for issues.
+  ●	Stakeholders:
+    ○ Corporate Manager: To receive clear and relevant project information
+    ○	Corporate Developer: provide code
+    ○ External users: provide code
+  ●	Preconditions:
+    ○	Code must exit in repo
+  ●	Main Success Scenario: Repository is free of issues. 
+  ●	Trigger: Request for code scan.
