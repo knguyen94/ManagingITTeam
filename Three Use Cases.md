@@ -74,7 +74,7 @@ Use Case 3
     
   ●	Preconditions:
   
-    ○	System be Linux based or Windows based. Linux is prefered becasue it is free and supports many toos for the task. 
+    ○	System to be Linux based or Windows based. Linux is prefered becasue it is free and supports many toos for the task. 
     
     ○	If Linux is decided use Ubuntu, FreeBSD, or CentOS.
     
