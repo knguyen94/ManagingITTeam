@@ -1,4 +1,4 @@
-This the the list of DFD Definitions
+Data Flow Diagram Definitions
 
 ENTITIES
 
@@ -31,12 +31,12 @@ SPDX DB - This is the database that is going to store information about files (r
 PROCESSES
 
 Scan Code
-●	Initial Query
-●	SHA1 lookup (caching)
-●	File packaging
-●	Scanning for license and copyright
-●	Vulnerability look up
-●	Weakness look up
-●	DB writing
+- Initial Query
+- SHA1 lookup (caching)
+- File packaging
+- Scanning for license and copyright
+- Vulnerability look up
+- Weakness look up
+- DB writing
 
 Create Project Information - Received provided project information and assemble and return discovered software license, copyright, vulnerability, and weakness information.
