@@ -28,10 +28,6 @@ Use Case 1
   
 
 
-
-
-
-  
   Use Case 2
   
   ●	Title: Scan code
