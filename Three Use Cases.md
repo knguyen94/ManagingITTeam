@@ -50,22 +50,24 @@ This is the list of use cases.
   
    Use Case 3
   
-  ●	Title: 
+  ●	Title: Make code available
   
-  ●	Primary Actor: 
+  ●	Primary Actor: Corporate Developer
   
-  ●	Goal in Context: 
+  ●	Goal in Context: Make code available as open source for people to download
   
   ●	Stakeholders:
   
-    ○ Corporate Manager:
+    ○ Corporate Manager: Ensure that source code meets standards
     
-    ○	Corporate Developer: 
+    ○	Corporate Developer: See that code is free of isses and has approiate license.
     
   ●	Preconditions:
   
-    ○	
+    ○	Has proper license
     
-  ●	Main Success Scenario: 
+    ○ Checked for vulnerabillities
+    
+  ●	Main Success Scenario: Code is available for download and use. 
   
-  ●	Trigger: 
+  ●	Trigger: source code is ready for distribution
