@@ -1,34 +1,6 @@
 This is the list of use cases.
 
-Use Case 1
-
-  ●	Title: Determine License and Vulnerability Information
-  
-  ●	Primary Actor: Corporate Manager
-  
-  ●	Goal in Context: The corporate manager is able to determine license and vulnerability information from provided project information
-  
-  ●	Stakeholders:
-  
-    ○ Corporate Manager: To receive clear and relevant project information
-    
-    ○	Corporate Developer: To provide the relevant file/package level information
-    
-    ○ Project Owner: To clearly understand corporate manager decisions to green/red light a project
-    
-  ●	Preconditions:
-  
-    ○	Relevant file/package information is in the SPDX database
-    
-    ○	Proper project information has been provided
-    
-  ●	Main Success Scenario: Corporate manager receives inaccurate or invalid license and vulnerability information for the requested project packages
-  
-  ●	Trigger: Corporate manager uploads or identifies project information to which license and vulnerability information is provided
-  
-
-
-  Use Case 2
+  Use Case 1
   
   ●	Title: Scan code
   
@@ -46,9 +18,54 @@ Use Case 1
     
   ●	Preconditions:
   
-    ○	Code must exit in repo
+    ○	Code must exist in repo
     
   ●	Main Success Scenario: Repository is free of issues.
   
   ●	Trigger: Request for code scan.
   
+  
+  Use Case 2
+  
+  ●	Title: Policy check
+  
+  ●	Primary Actor: Corporate Manager
+  
+  ●	Goal in Context:  Manager checks results against corporate policy
+  
+  ●	Stakeholders:
+  
+    ○ Corporate Manager: Perform the check personally or oversee the policy check to ensure accuracy
+    
+    ○	Corporate Developer: know code well enough to explain it to manager if needed or be able perform policy check.
+    
+  ●	Preconditions:
+  
+    ○	Code must exist and perferably be free of other issues.
+    
+  ●	Main Success Scenario: Results are up to company standards.
+  
+  ●	Trigger: Code is ready to be checked and/or the request is made. 
+  
+  
+   Use Case 3
+  
+  ●	Title: 
+  
+  ●	Primary Actor: 
+  
+  ●	Goal in Context: 
+  
+  ●	Stakeholders:
+  
+    ○ Corporate Manager:
+    
+    ○	Corporate Developer: 
+    
+  ●	Preconditions:
+  
+    ○	
+    
+  ●	Main Success Scenario: 
+  
+  ●	Trigger: 
