@@ -14,7 +14,7 @@ resources and time. Other problems software licensing issues.
 
 Solution: 
 	
-	To combat this issue vulnerability checks should be done internally. Vulnerability checks can be automated so
+To combat this issue vulnerability checks should be done internally. Vulnerability checks can be automated so
 it doesn’t have to take up much time or resources. Doing this internally will help better guard against future risks 
 and other issues. And will help push the best product possible.  
 
