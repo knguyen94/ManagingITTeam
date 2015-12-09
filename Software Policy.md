@@ -12,7 +12,6 @@ Apache – Yellow
 MIT – Green 
 
 ##Vulnerabilities
-
-  Scores
+Scores
 0<X<6 – Yellow
 X>6 – Red 
