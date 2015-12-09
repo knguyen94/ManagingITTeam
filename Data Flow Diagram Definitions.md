@@ -60,7 +60,7 @@ Scan Code
 - Initial Query
 - SHA1 lookup (caching)
 - File packaging
-- Scanning for license and copyright
+- Scan for license and copyright
 - Vulnerability look up
 - Weakness look up
 - Database writing
