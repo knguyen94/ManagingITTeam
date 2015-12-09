@@ -1,1 +1,3 @@
-A link to our presentation slides will be posted here.
+#Presentation Slides
+
+![](https://github.com/knguyen94/ManagingITTeam/files/56301/Final.Project.Presentation.pptx)
