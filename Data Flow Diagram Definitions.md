@@ -10,6 +10,12 @@ National Vulnerability Database - Stores software vulnerability information
 
 NIST Database - Online database that stores vulnerability information
 
+Source Code Database - Online database that containes source code information
+
+Policy Document Database - Contains policy document information
+
+Interweb - Internet
+
 ## DATA FLOWS
 
 Source Query - Internally initiated request for external source
@@ -42,7 +48,7 @@ CPE Response - Response to prompt for CPE information
 
 ## DATA STORES
 
-Risk Information - This is the database that is going to store information about files (remember that files -> packages -> projects). This information is going to have to be stored in a standardized way.
+Risk Information - This is the database that is going to store information about files. This information is going to have to be stored in a standardized way.
 
 NIST CPE Information - Database that provides vulnerability information
 
@@ -60,3 +66,13 @@ Scan Code
 - DB writing
 
 Create Project Information - Received provided project information and assemble and return discovered software license, copyright, vulnerability, and weakness information.
+
+CVE Lookup - Receives CPE information and returns CVE information
+
+Post Code Change Information - Receives package list from manager and sends license information to developer
+
+Policy Document Information - Receives policy document request, sends request to policy document database, receives policy document information, and returns policy document response to manager
+
+Source Code Lookup - Receives package request from developer, sends package information to source code database, receives source code information, and returns modified package to developer
+
+Post Source Code - Receives modified package from developer and posts modified package to Interweb
