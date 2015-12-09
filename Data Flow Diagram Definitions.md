@@ -30,21 +30,21 @@ File SHA1 - Hash of file
 
 File SHA1 Response - A yes/no response as to whether or not the hash of a file exists in the database.
 
-File Copyright/License + Info - For any file that does not have a SHA1 in the database, a new record is created for that file
+File Copyright/License + Info - For any file that does not have a SHA1 in the database, a new record is created for that file.
 
-Project Query - Request for software project
+Project Query - Request for software project.
 
 Project Info - Relevant information about a project. This includes copyright, license, and vulnerability information.
 
-CPE Information - Downloadable file within the NIST database
+CPE Information - Downloadable file within the NIST database.
 
-License Info - License information received from FOSSology
+License Info - License information received from FOSSology.
 
-CPE Info - Standardized method of describing and identifying classes of applications, operating systems, and hardware devices
+CPE Info - Standardized method of describing and identifying classes of applications, operating systems, and hardware devices.
 
-CPE Request - Prompt for CPE information
+CPE Request - Prompt for CPE information.
 
-CPE Response - Response to prompt for CPE information
+CPE Response - Response to prompt for CPE information.
 
 ## DATA STORES
 
@@ -63,16 +63,16 @@ Scan Code
 - Scanning for license and copyright
 - Vulnerability look up
 - Weakness look up
-- DB writing
+- Database writing
 
 Create Project Information - Received provided project information and assemble and return discovered software license, copyright, vulnerability, and weakness information.
 
-CVE Lookup - Receives CPE information and returns CVE information
+CVE Lookup - Receives CPE information and returns CVE information.
 
-Post Code Change Information - Receives package list from manager and sends license information to developer
+Post Code Change Information - Receives package list from manager and sends license information to developer.
 
-Policy Document Information - Receives policy document request, sends request to policy document database, receives policy document information, and returns policy document response to manager
+Policy Document Information - Receives policy document request, sends request to policy document database, receives policy document information, and returns policy document response to manager.
 
-Source Code Lookup - Receives package request from developer, sends package information to source code database, receives source code information, and returns modified package to developer
+Source Code Lookup - Receives package request from developer, sends package information to source code database, receives source code information, and returns modified package to developer.
 
-Post Source Code - Receives modified package from developer and posts modified package to Interweb
+Post Source Code - Receives modified package from developer and posts modified package to interweb.
