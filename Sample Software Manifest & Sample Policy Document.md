@@ -1,4 +1,4 @@
-Software Manifest:
+#Software Manifest:
 
 #Document
       DocumentLicense: CC-BY-SA 4.0
@@ -11,7 +11,7 @@ Software Manifest:
       Licenses: 
       Vulnerabilities: ???
 
-Sample Policy:
+#Sample Policy:
 
 Context: Production Source 
 
