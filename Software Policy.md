@@ -1,4 +1,4 @@
-#Sample Policy:
+#Software Policy:
 
 Context: Production Source
 ##Licenses
