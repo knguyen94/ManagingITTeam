@@ -6,7 +6,7 @@
   
 ●	Primary Actor: Corporate Developer
   
-●	Goal in Context: Corporate Developer scans code for issues.
+●	Goal in Context: Corporate Developer scans code for issues
   
 ●	Stakeholders:
   - Corporate Manager: To receive clear and relevant project information
@@ -14,11 +14,11 @@
   - External users: Provide code
 
 ●	Preconditions:
-  - Code must exist in repo
+  - Code must exist in repository
 
-●	Main Success Scenario: Repository is free of issues.
+●	Main Success Scenario: Repository is free of issues
   
-●	Trigger: Request for code scan.
+●	Trigger: Request for code scan
   
 
   
@@ -32,15 +32,15 @@
   
 ●	Stakeholders:
   - Corporate Manager: Perform the check personally or oversee the policy check to ensure accuracy
-  - Corporate Developer: Know code well enough to explain it to manager if needed or be able perform policy check.
+  - Corporate Developer: Know code well enough to explain it to manager if needed or be able perform policy check
 
 ●	Preconditions:
-  - Code must exist and perferably be free of other issues.
+  - Code must exist and perferably be free of other issues
 
-●	Main Success Scenario: Results are up to company standards.
+●	Main Success Scenario: Results are up to company standards
   
-●	Trigger: Code is ready to be checked and/or the request is made. 
-  
+●	Trigger: Code is ready to be checked and/or the request is made
+
 
   
 ## Use Case 3
@@ -53,7 +53,7 @@
   
 ●	Stakeholders:
   - Corporate Manager: Ensure that source code meets standards
-  - Corporate Developer: See that code is free of isses and has approiate license.
+  - Corporate Developer: See that code is free of isses and has appropriate license
   
 ●	Preconditions:
   - Has proper license
