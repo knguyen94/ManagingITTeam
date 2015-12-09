@@ -1,6 +1,6 @@
-Data Flow Diagram Definitions
+# Data Flow Diagram Definitions
 
-ENTITIES
+## ENTITIES
 
 External Repository - External locations of source code. This could include public and private repositories outside of the control of the organization. This could also include software received via software supply chains.
 
@@ -10,7 +10,7 @@ National Vulnerability Database - Stores software vulnerability information
 
 NIST Database - Online database that stores vulnerability information
 
-DATA FLOWS
+## DATA FLOWS
 
 Source Query - Internally initiated request for external source
 
@@ -40,13 +40,13 @@ CPE Request - Prompt for CPE information
 
 CPE Response - Response to prompt for CPE information
 
-DATA STORE
+## DATA STORES
 
 SPDX DB - This is the database that is going to store information about files (remember that files -> packages -> projects). This information is going to have to be stored in a standardized way.
 
 NIST CPE Information - Database that provides vulnerability information
 
-PROCESSES
+## PROCESSES
 
 License Scanner - Provides license information for package uploads
 
