@@ -2,7 +2,7 @@
 
 ## ENTITIES
 
-External Repository - External locations of source code. This could include public and private repositories outside of the control of the organization. This could also include software received via software supply chains.
+External Repository - External locations of source code. This could include public and private repositories outside of the control of the organization. May also include software received via software supply chains.
 
 Corporate Managers - Internal corporate individuals who will be the recipients of the external software manifests. From these manifests, they can make corporately impactful decisions. However, these decisions are beyond the scope of the current system.
 
