@@ -42,7 +42,7 @@ CPE Response - Response to prompt for CPE information
 
 ## DATA STORES
 
-SPDX DB - This is the database that is going to store information about files (remember that files -> packages -> projects). This information is going to have to be stored in a standardized way.
+Risk Information - This is the database that is going to store information about files (remember that files -> packages -> projects). This information is going to have to be stored in a standardized way.
 
 NIST CPE Information - Database that provides vulnerability information
 
