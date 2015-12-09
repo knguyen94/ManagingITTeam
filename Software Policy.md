@@ -3,11 +3,11 @@
 Context: Production Source
 ##Licenses
 
-  Copyleft 
+Copyleft 
 - GPLv2 – Red 
 - GPLv3 – Black
 
-  Permissive 
+Permissive 
 - Apache – Yellow
 - MIT – Green 
 
