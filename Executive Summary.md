@@ -7,4 +7,4 @@ With the use of open source software and having involvement in open source, some
 
 ## Solution: 
 
-To combat this issue vulnerability checks should be automated. Vulnerability checks can be automated and don't have to take up much time or resources. There are a lot of different softwares that are for automated vulnerability checks. A lot of the more basic tools are free and some of the more intensive applications are paid. These applications run on most operating systems and are a great tools for many organizations because they can save time and money.
+To combat this issue vulnerability checks should be automated. Vulnerability checks can be automated and don't have to take up much time or resources. There are a lot of different softwares that are for automated vulnerability checks. A lot of the more basic tools are free and some of the more intensive applications are paid. These applications run on most operating systems and are great tools for many organizations because they can save time and money.
