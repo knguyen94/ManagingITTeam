@@ -4,8 +4,8 @@ Context: Production Source
 ##Licenses
 
   Copyleft 
-GPLv2 – Red 
-GPLv3 – Black
+- GPLv2 – Red 
+- GPLv3 – Black
 
   Permissive 
 - Apache – Yellow
