@@ -14,4 +14,4 @@ GPLv3 – Black
 ##Vulnerabilities
 Scores
 - 0<X<6 - Yellow
-- X > 6 - Red 
+- X>6 - Red 
