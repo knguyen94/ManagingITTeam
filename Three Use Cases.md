@@ -10,8 +10,8 @@
   
 ●	Stakeholders:
   - Corporate Manager: To receive clear and relevant project information
-  - Corporate Developer: provide code
-  - External users: provide code
+  - Corporate Developer: Provide code
+  - External users: Provide code
 
 ●	Preconditions:
   - Code must exist in repo
@@ -32,7 +32,7 @@
   
 ●	Stakeholders:
   - Corporate Manager: Perform the check personally or oversee the policy check to ensure accuracy
-  - Corporate Developer: know code well enough to explain it to manager if needed or be able perform policy check.
+  - Corporate Developer: Know code well enough to explain it to manager if needed or be able perform policy check.
 
 ●	Preconditions:
   - Code must exist and perferably be free of other issues.
@@ -61,4 +61,4 @@
   
 ●	Main Success Scenario: Code is available for download and use. 
   
-●	Trigger: source code is ready for distribution
+●	Trigger: Source code is ready for distribution
