@@ -1,6 +1,6 @@
-This is the list of use cases.
+# Three Use Cases
 
-Use Case 1
+## Use Case 1
   
 ●	Title: Scan code
   
@@ -22,7 +22,7 @@ Use Case 1
   
 
   
-Use Case 2
+## Use Case 2
   
 ●	Title: Policy check
   
@@ -43,7 +43,7 @@ Use Case 2
   
 
   
-Use Case 3
+## Use Case 3
   
 ●	Title: Make code available
   
