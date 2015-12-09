@@ -9,4 +9,4 @@
       SHA1: 
       CPE: 
       Licenses: 
-      Vulnerabilities: ???
+      Vulnerabilities:
