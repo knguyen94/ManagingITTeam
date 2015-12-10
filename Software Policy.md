@@ -14,4 +14,4 @@ Permissive
 ##Vulnerabilities
 Scores
 - 0<X<6 - Yellow
-- 0>X>6 - Red 
+- X>6 - Red 
