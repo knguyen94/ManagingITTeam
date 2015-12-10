@@ -10,7 +10,7 @@
   
 ●	Stakeholders:
   - Corporate Manager: To receive clear and relevant project information
-  - Corporate Developer: Provide code
+  - Corporate Developer: Provides code
   - External users: Provide code
 
 ●	Preconditions:
@@ -31,11 +31,11 @@
 ●	Goal in Context:  Manager checks results against corporate policy
   
 ●	Stakeholders:
-  - Corporate Manager: Perform the check personally or oversee the policy check to ensure accuracy
-  - Corporate Developer: Know code well enough to explain it to manager if needed or be able perform policy check
+  - Corporate Manager: Performs the check personally or oversees the policy check to ensure accuracy
+  - Corporate Developer: Knows the code well enough to explain it to a manager if needed or be able perform a policy check
 
 ●	Preconditions:
-  - Code must exist and perferably be free of other issues
+  - Code must exist and preferably be free of other issues
 
 ●	Main Success Scenario: Results are up to company standards
   
@@ -52,13 +52,13 @@
 ●	Goal in Context: Make code available as open source for people to download
   
 ●	Stakeholders:
-  - Corporate Manager: Ensure that source code meets standards
-  - Corporate Developer: See that code is free of isses and has appropriate license
+  - Corporate Manager: Ensures that source code meets standards
+  - Corporate Developer: Sees that code is free of isses and has appropriate license
   
 ●	Preconditions:
   - Has proper license
-  - Checked for vulnerabillities
+  - Checked for vulnerabilities
   
-●	Main Success Scenario: Code is available for download and use. 
+●	Main Success Scenario: Code is available for download and use
   
 ●	Trigger: Source code is ready for distribution
